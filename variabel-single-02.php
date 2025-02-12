@@ -11,6 +11,11 @@ $nama  = "Budi";
 $y = 500;
 $nama  = "Santosa";
 
+echo "<br/>"
+
+$y = $y + 500;
+$nama  = $nama."Santosa";
+
 //  mencetak isi variabel
 print $y;
 print $nama;
